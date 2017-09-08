@@ -1,0 +1,4 @@
+C:\GitHub\FunCode\CsvFrequency\MSCodeTest.Data\bin\Debug\MSCodeTest.Data.dll
+C:\GitHub\FunCode\CsvFrequency\MSCodeTest.Data\bin\Debug\MSCodeTest.Data.pdb
+C:\GitHub\FunCode\CsvFrequency\MSCodeTest.Data\obj\Debug\MSCodeTest.Data.dll
+C:\GitHub\FunCode\CsvFrequency\MSCodeTest.Data\obj\Debug\MSCodeTest.Data.pdb

@@ -1,0 +1,11 @@
+C:\GitHub\FunCode\CsvFrequency\CsvFrequency.UnitTests\obj\Debug\CsvFrequency.UnitTests.csprojResolveAssemblyReference.cache
+C:\GitHub\FunCode\CsvFrequency\CsvFrequency.UnitTests\bin\Debug\CsvFrequency.UnitTests.dll
+C:\GitHub\FunCode\CsvFrequency\CsvFrequency.UnitTests\bin\Debug\CsvFrequency.UnitTests.pdb
+C:\GitHub\FunCode\CsvFrequency\CsvFrequency.UnitTests\bin\Debug\CsvFrequency.Common.dll
+C:\GitHub\FunCode\CsvFrequency\CsvFrequency.UnitTests\bin\Debug\CsvFrequency.Data.dll
+C:\GitHub\FunCode\CsvFrequency\CsvFrequency.UnitTests\bin\Debug\nunit.framework.dll
+C:\GitHub\FunCode\CsvFrequency\CsvFrequency.UnitTests\bin\Debug\CsvFrequency.Common.pdb
+C:\GitHub\FunCode\CsvFrequency\CsvFrequency.UnitTests\bin\Debug\CsvFrequency.Data.pdb
+C:\GitHub\FunCode\CsvFrequency\CsvFrequency.UnitTests\bin\Debug\nunit.framework.xml
+C:\GitHub\FunCode\CsvFrequency\CsvFrequency.UnitTests\obj\Debug\CsvFrequency.UnitTests.dll
+C:\GitHub\FunCode\CsvFrequency\CsvFrequency.UnitTests\obj\Debug\CsvFrequency.UnitTests.pdb

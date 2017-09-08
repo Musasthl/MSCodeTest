@@ -1,0 +1,11 @@
+C:\GitHub\FunCode\CsvFrequency\CsvFrequency.ConsoleApp\bin\Debug\CsvFrequency.ConsoleApp.exe.config
+C:\GitHub\FunCode\CsvFrequency\CsvFrequency.ConsoleApp\bin\Debug\Resources\data.csv
+C:\GitHub\FunCode\CsvFrequency\CsvFrequency.ConsoleApp\bin\Debug\CsvFrequency.ConsoleApp.exe
+C:\GitHub\FunCode\CsvFrequency\CsvFrequency.ConsoleApp\bin\Debug\CsvFrequency.ConsoleApp.pdb
+C:\GitHub\FunCode\CsvFrequency\CsvFrequency.ConsoleApp\bin\Debug\CsvFrequency.Common.dll
+C:\GitHub\FunCode\CsvFrequency\CsvFrequency.ConsoleApp\bin\Debug\CsvFrequency.Data.dll
+C:\GitHub\FunCode\CsvFrequency\CsvFrequency.ConsoleApp\bin\Debug\CsvFrequency.Common.pdb
+C:\GitHub\FunCode\CsvFrequency\CsvFrequency.ConsoleApp\bin\Debug\CsvFrequency.Data.pdb
+C:\GitHub\FunCode\CsvFrequency\CsvFrequency.ConsoleApp\obj\Debug\CsvFrequency.ConsoleApp.csprojResolveAssemblyReference.cache
+C:\GitHub\FunCode\CsvFrequency\CsvFrequency.ConsoleApp\obj\Debug\CsvFrequency.ConsoleApp.exe
+C:\GitHub\FunCode\CsvFrequency\CsvFrequency.ConsoleApp\obj\Debug\CsvFrequency.ConsoleApp.pdb

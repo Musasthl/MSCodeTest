@@ -1,0 +1,5 @@
+C:\GitHub\FunCode\CsvFrequency\CsvFrequency.Data\bin\Debug\CsvFrequency.Data.dll
+C:\GitHub\FunCode\CsvFrequency\CsvFrequency.Data\bin\Debug\CsvFrequency.Data.pdb
+C:\GitHub\FunCode\CsvFrequency\CsvFrequency.Data\obj\Debug\CsvFrequency.Data.csprojResolveAssemblyReference.cache
+C:\GitHub\FunCode\CsvFrequency\CsvFrequency.Data\obj\Debug\CsvFrequency.Data.dll
+C:\GitHub\FunCode\CsvFrequency\CsvFrequency.Data\obj\Debug\CsvFrequency.Data.pdb

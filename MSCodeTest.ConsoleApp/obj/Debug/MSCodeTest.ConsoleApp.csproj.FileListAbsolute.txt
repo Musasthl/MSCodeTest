@@ -1,0 +1,1 @@
+C:\GitHub\FunCode\CsvFrequency\CsvFrequency.ConsoleApp\bin\Debug\MSCodeTest.ConsoleApp.exe.config
